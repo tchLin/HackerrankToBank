@@ -2,7 +2,7 @@
 
 ### My repository for Hackrank record. Review and learning purposes!   
 I'm still learning so feel free to point out where I could improve :)
-###### _All solutions were made with the sole intent of solving the corresponding LeetCode challenge._  
+###### _All solutions were made with the sole intent of solving the corresponding HackerRank challenge._  
 ###### _Solutions may not be as efficient as possible._
 
 | Title                                                                                                                           | Difficulty                                                             |  Solution                                                                      |
